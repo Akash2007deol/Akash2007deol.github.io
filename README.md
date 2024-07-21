@@ -3,5 +3,5 @@ This is my first github account
 	| Syntax | Description |
 | ----------- | ----------- |
 | Header | MY Induction Activity File|
-| Paragraph | Text |
+| Paragraph | I am learning many new things in induction programme organized by our GNDEC, ludhiana. |
 [MY CANVA Project](https://www.canva.com/design/DAGLRCExl_E/QhDLvtHegnUmkKVT7h-JBA/edit)
