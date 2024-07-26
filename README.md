@@ -4,9 +4,17 @@ This is my first github account
     
 My Induction File
      
-     I am learning so many new things in this programme.The teachers, seniors and Lecturer are so interactive and helping. The guidance from them help students to make right decisions in life.
+     I am learning so many new
+    
+     things in this programme.The teachers, seniors 
+     and Lecturer are so interactive and
+     helping. The guidance from them
+     help students to make right decisions in life.
      
-    [MY CANVA Project](https://www.canva.com/design/DAGLRCExl_E/QhDLvtHegnUmkKVT7h-JBA/edit) 
+    [MY CANVA Project]
+    (https://www.canva.com/design/DAGLRCExl_E/QhDLvtHegnUmkKVT7h-JBA/edit)
+
+   ## Induction Activity File
     
 | Date | Name | Description |
 | ----------- | ----------- |------------|
