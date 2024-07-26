@@ -1,6 +1,6 @@
 # Akash2007deol.github.io
 This is my first github account
-	| Syntax | Description |
+	| Date | Name | Description |
 | ----------- | ----------- |
 | Header | MY Induction Activity File|
 | Paragraph | I am learning many new things in induction programme organized by our GNDEC, ludhiana. |
