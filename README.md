@@ -12,7 +12,7 @@ My Induction File
      help students to make right decisions in life.
      
     [MY CANVA Project]
-    (https://www.canva.com/design/DAGLRCExl_E/QhDLvtHegnUmkKVT7h-JBA/edit)
+   https://www.canva.com/design/DAGLRCExl_E/QhDLvtHegnUmkKVT7h-JBA/edit (https://www.canva.com/design/DAGLRCExl_E/QhDLvtHegnUmkKVT7h-JBA/edit)
 
    ## Induction Activity File
     
